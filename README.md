@@ -212,21 +212,18 @@ By using this application, you acknowledge and agree that:
 ### Copyright & Intellectual Property
 **WARNING:** This tool is protected by copyright and intellectual property laws.
 
-**Official Distribution:** GitHub is the ONLY official and authorized distribution channel. Any copies found elsewhere are unauthorized and illegal.
+**Official Distribution:** GitHub is the official source for this tool. We recommend downloading from the official repository for the latest updates and security patches.
 
-**Strictly Prohibited:**
-- **DO NOT** copy, reproduce, or distribute this tool outside of GitHub
-- **DO NOT** reverse-engineer, decompile, or attempt to extract source code under any circumstances
-- **DO NOT** create derivative works that are substantially similar to this tool
-- **DO NOT** remove or alter copyright notices, watermarks, or attribution
-- **DO NOT** upload this tool to other platforms, websites, or distribution channels
-- **DO NOT** sell, license, or commercialize this tool in any form
+**Guidelines:**
+- Please keep attribution and copyright notices intact
+- Commercial redistribution requires explicit permission
+- We encourage responsible sharing within the security community
+- Forking and contributions are welcome on GitHub
 
-**Reverse Engineering Protection:**
-- This tool contains anti-tampering mechanisms and code obfuscation
-- Any attempts to reverse-engineer will be detected and prosecuted
-- Decompilation, debugging, or code extraction attempts are illegal
-- We use advanced techniques to protect our intellectual property
+**Code Protection:**
+- This tool is provided as-is for educational and authorized testing
+- We encourage transparency and responsible security research
+- Code modifications should be clearly documented and attributed
 
 **Allowed:** Creating tools *inspired by* the concepts or functionality, provided they are:
 - Original implementations with your own code (no copying)
@@ -234,7 +231,7 @@ By using this application, you acknowledge and agree that:
 - Properly attributed if referencing concepts
 - Distributed through your own GitHub repository with proper attribution
 
-**Enforcement:** We actively monitor all platforms for copyright infringement and will take down unauthorized copies through legal means including DMCA notices, cease and desist letters, and legal action if necessary. Violators may face criminal charges.
+**Enforcement:** We reserve the right to protect our intellectual property through appropriate legal channels. Please respect the terms of this license.
 
 ### No Warranty
 This software is provided "AS IS" without any warranties, express or implied. The developers make no guarantees about the software's functionality, reliability, or suitability for any purpose.
